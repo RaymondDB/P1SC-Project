@@ -1,0 +1,28 @@
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\bin\Debug\P1SC08.exe.config
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\bin\Debug\P1SC08.exe
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\bin\Debug\P1SC08.pdb
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\obj\Debug\P1SC08.frmProductos.resources
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\obj\Debug\P1SC08.Properties.Resources.resources
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\obj\Debug\P1SC08.csproj.GenerateResource.cache
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\obj\Debug\P1SC08.csproj.CoreCompileInputs.cache
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\obj\Debug\P1SC08.exe
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\obj\Debug\P1SC08.pdb
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\obj\Debug\P1SC08.frmVENPROD.resources
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\obj\Debug\P1SC08.frmMenu.resources
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\obj\Debug\P1SC08.frmStarts.resources
+C:\ITLA 2024 C3\P1SC08\P1SC08\P1SC08\obj\Debug\P1SC08.csproj.AssemblyReference.cache
+C:\Users\semig\Desktop\P1SC08\P1SC08\bin\Debug\P1SC08.exe.config
+C:\Users\semig\Desktop\P1SC08\P1SC08\bin\Debug\P1SC08.exe
+C:\Users\semig\Desktop\P1SC08\P1SC08\bin\Debug\P1SC08.pdb
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.csproj.AssemblyReference.cache
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.frmMenu.resources
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.frmClientes.resources
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.frmProductos.resources
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.frmStarts.resources
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.frmVENPROD.resources
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.Properties.Resources.resources
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.csproj.GenerateResource.cache
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.csproj.CoreCompileInputs.cache
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.exe
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.pdb
+C:\Users\semig\Desktop\P1SC08\P1SC08\obj\Debug\P1SC08.frmFactura.resources
